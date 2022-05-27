@@ -3,7 +3,7 @@ public class Shouter {
 
 	public void shout(String message) {
 		
-		String shoutMessage = message.toUpperCase() + '!';
+		String shoutMessageeeee = message.toUpperCase() + '!';
 		
 		System.out.println(shoutMessage);
 		
